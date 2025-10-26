@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+import 'attendance_screen_new.dart';
+
+class AttendanceScreen extends StatelessWidget {
+  const AttendanceScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const AttendanceScreenNew();
+  }
+}

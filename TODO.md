@@ -1,0 +1,4 @@
+- [x] Add endToleranceMinutes constant
+- [x] Modify _determineAttendanceType to restrict OUT to 17:00-17:15
+- [x] Update _showTimeRestrictionDialog text for OUT
+- [x] Update top display text if needed

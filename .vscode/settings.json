@@ -1,0 +1,9 @@
+{
+  // Automatically perform Flutter hot reload when saving files.
+  // Requires the Dart and Flutter VS Code extensions.
+  "dart.flutterHotReloadOnSave": true,
+  // Optionally format on save to keep code tidy.
+  "editor.formatOnSave": true,
+  // Recommended: ensure files are saved with LF to avoid platform issues.
+  "files.eol": "\n"
+}
